@@ -1,0 +1,66 @@
+# Globals #################################
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
+# TeXlipse plugin
+.texlipse
+
+# Sass Ignores
+*.sass-cache
+
+# sublimetest
+# workspace files are user-specific
+*.sublime-workspace
+
+# project files should be checked into the repository, unless a significant
+# proportion of contributors will probably not be using SublimeText
+# *.sublime-project
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# OS X
+.DS_Store
+
+# Xcode
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+*.xccheckout
+profile
+*.moved-aside
+DerivedData
+*.hmap
+*.xccheckout
+
+# CocoaPods
+Pods
+
+# log files
+*.log
+
+node_modules
+.idea
+
+
+## project ignores ######################
+
+_devDependencies
+bower_components
+css/sass-output
+
