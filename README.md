@@ -1,6 +1,8 @@
 OSX Yosemite's Today Jalaly (Persian) Calendar Widget
 =====================================================
 
+![screen shot](https://raw.githubusercontent.com/morteza-fsh/mac-todaywidget.jalaly/master/screenshot/widget-ss.png)
+
 Installation
 ------------
  1. Download "TodayScripts" from [here](https://github.com/SamRothCA/Today-Scripts/releases).
@@ -31,13 +33,13 @@ Grunt installation:
 Project Dependencies:
 ---------------------
     npm install grunt --save-dev
-	npm install grunt-contrib-watch    --save-dev
-	npm install grunt-contrib-uglify   --save-dev
-	npm install grunt-contrib-concat   --save-dev
+    npm install grunt-contrib-watch    --save-dev
+    npm install grunt-contrib-uglify   --save-dev
+    npm install grunt-contrib-concat   --save-dev
 
-	npm install load-grunt-tasks   --save-dev
-	npm install time-grunt         --save-dev
-	npm install grunt-concurrent   --save-dev
+    npm install load-grunt-tasks   --save-dev
+    npm install time-grunt         --save-dev
+    npm install grunt-concurrent   --save-dev
 
 
 Simple Dependency Install:
